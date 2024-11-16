@@ -40,13 +40,13 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-5C2D91?style=for-the-badge)
 
-#### Databases & Message Brokers 🛢️
+#### Databases 🛢️
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-#### Testing & API Documentation 🧪📝
+#### Testing 📝
 ![XUnit](https://img.shields.io/badge/-XUnit-5C2D91?style=for-the-badge)
 
 
