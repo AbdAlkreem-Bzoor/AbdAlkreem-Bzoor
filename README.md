@@ -1,6 +1,4 @@
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Abdalkreem+Bzoor.....">
-</div>
+<h1 align="center">Hi 👋, I'm Abdalkreem Bzoor</h1>
 
 
 ![ProfileView](https://komarev.com/ghpvc/?username=AbdAlkreem-Bzoor&label=Profile%20views&color=blueviolet)
@@ -38,16 +36,22 @@
 
 #### Backend Development 🌐
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-5C2D91?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/-SignalR-5C2D91?style=for-the-badge)
+![JSON Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-#### Databases 🛢️
+#### Databases & Message Brokers 🛢️
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-#### Testing 📝
+#### Testing & API Documentation 🧪📝
 ![XUnit](https://img.shields.io/badge/-XUnit-5C2D91?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 <hr/>
