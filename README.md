@@ -72,6 +72,6 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abdalkreem_bzoor)
 
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/abdalkreem_bzoor?theme=ligth)
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/abdalkreem_bzoor?theme=dark)
 
 <hr/>
