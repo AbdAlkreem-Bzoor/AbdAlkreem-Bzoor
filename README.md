@@ -69,10 +69,9 @@
 <hr/>
 
 ### Problem Solving & Competitive Programming Statistics 📈
-<div align="center">
-	<img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=abdalkreem_bzoor&force_username=true&theme=dark&border_color=#FFF" />
-      	&ensp;
-	<img height=300 src="https://leetcode.card.workers.dev/abdalkreem_bzoor?theme=Dark&font=baloo&extension=activity&border_color=#FFF" />
-</div>
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abdalkreem_bzoor)
+
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/abdalkreem_bzoor?theme=ligth)
 
 <hr/>
