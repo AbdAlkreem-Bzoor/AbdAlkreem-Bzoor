@@ -5,7 +5,6 @@
 
 
 🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
-📄 Know about my experiences **<a href="https://drive.google.com/file/d/1mIjZasAM3ZEIP8DgC4tIX736_yj6lOx-/view?usp=sharing" target="_blank">Resume</a>**. <br />
 📩 Reach me on: [**Email**](mailto://abdalkreembzoor@gmail.com) <br />
 
 <hr/>
